@@ -17,3 +17,5 @@ Chapter 2
 3. Looping For
 4. Looping While
 5. Looping Do While
+6. Method
+7. Function
