@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Rectangle Area with side "+side+" is "+countingRectangularArea(side));
     }
 
+
     public static int countingRectangularArea(int side){
         int area = side * side;
         return area;
