@@ -17,10 +17,12 @@ public class Main {
 
         // For Accessing the row
         for (int i=0;i<3;i++){
+
             // For Access the column
             for (int k=0;k<2;k++){
                 System.out.print(peopleData[i][k]+" ");
             }
+
             System.out.println();
         }
 
