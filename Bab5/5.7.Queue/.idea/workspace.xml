@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73c0023c-f54e-44c3-b64c-0754aea954e7" name="Default Changelist" comment="" />
+    <list default="true" id="b662c93f-64f1-4750-8237-433ad86cf0da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.7.Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5.7.Queue/OperasiPriorityQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperasiPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.6.Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5.6.Stack/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +25,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OperasiStack.java">
+        <entry file="file://$PROJECT_DIR$/src/OperasiPriorityQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="354">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -39,7 +48,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OperasiStack.java" />
+        <option value="$PROJECT_DIR$/src/OperasiPriorityQueue.java" />
       </list>
     </option>
   </component>
@@ -62,18 +71,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="5.6.Stack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="5.6.Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="5.7.Queue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5.7.Queue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -93,16 +102,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="OperasiStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperasiStack" />
-      <module name="5.6.Stack" />
+    <configuration name="OperasiPriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiPriorityQueue" />
+      <module name="5.7.Queue" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperasiStack" />
+        <item itemvalue="Application.OperasiPriorityQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -111,11 +120,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="73c0023c-f54e-44c3-b64c-0754aea954e7" name="Default Changelist" comment="" />
-      <created>1563678567160</created>
+      <changelist id="b662c93f-64f1-4750-8237-433ad86cf0da" name="Default Changelist" comment="" />
+      <created>1563679020717</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563678567160</updated>
+      <updated>1563679020717</updated>
     </task>
     <servers />
   </component>
@@ -151,10 +160,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/OperasiStack.java">
+    <entry file="file://$PROJECT_DIR$/src/OperasiPriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="354">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
