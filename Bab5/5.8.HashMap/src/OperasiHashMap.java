@@ -15,7 +15,7 @@ public class OperasiHashMap {
 
         // coa operasi containsKey dan containsValue
         System.out.println(provinsi.containsKey("Sumatra Barat")); // will return false
-        System.out.println(provinsi.containsValue("Surabaya")); // will return false 
+        System.out.println(provinsi.containsValue("Surabaya")); // will return false
     }
 
 }
