@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e081d11-e462-4b59-9327-7440db955753" name="Default Changelist" comment="" />
+    <list default="true" id="7a1d0af9-ecb4-44c6-8741-54e319cb28d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../7.10.ClassNotFoundException/src/PanggilSebuahKelas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CobaThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.9.IOException/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.9.IOException/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,13 +20,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/InputNama.java">
+        <entry file="file://$PROJECT_DIR$/src/CobaThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -42,14 +43,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/InputNama.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/CobaThread.java" />
       </list>
     </option>
   </component>
@@ -65,23 +59,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="7.9.IOException" type="b2602c69:ProjectViewProjectNode" />
-              <item name="7.9.IOException" type="462c0819:PsiDirectoryNode" />
+              <item name="7.11.InterruptedException" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7.11.InterruptedException" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7.11.InterruptedException" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7.11.InterruptedException" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -96,16 +92,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="InputNama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InputNama" />
-      <module name="7.9.IOException" />
+    <configuration name="CobaThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CobaThread" />
+      <module name="7.11.InterruptedException" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InputNama" />
+        <item itemvalue="Application.CobaThread" />
       </list>
     </recent_temporary>
   </component>
@@ -114,31 +110,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8e081d11-e462-4b59-9327-7440db955753" name="Default Changelist" comment="" />
-      <created>1565709482081</created>
+      <changelist id="7a1d0af9-ecb4-44c6-8741-54e319cb28d4" name="Default Changelist" comment="" />
+      <created>1565710067117</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565709482081</updated>
+      <updated>1565710067117</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -154,13 +150,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/InputNama.java">
+    <entry file="file://$PROJECT_DIR$/src/CobaThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="391">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
         </state>
       </provider>
     </entry>
