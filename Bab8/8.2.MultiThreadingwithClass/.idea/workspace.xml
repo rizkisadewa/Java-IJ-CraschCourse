@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b50f0a5-bb84-4d8a-8d5d-76ded2edc3bd" name="Default Changelist" comment="" />
+    <list default="true" id="7b0a364a-6d5b-4a36-8741-4e83f3049500" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TesterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadSaya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.1.MultiThreadImplementation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8.1.MultiThreadImplementation/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ThreadSaya.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state relative-caret-position="289">
+              <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TesterRunnable.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TesterThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="14" selection-start-column="1" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -48,8 +52,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/TesterThread.java" />
         <option value="$PROJECT_DIR$/src/ThreadSaya.java" />
-        <option value="$PROJECT_DIR$/src/TesterRunnable.java" />
       </list>
     </option>
   </component>
@@ -72,23 +76,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="8.1.MultiThreadImplementation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="8.1.MultiThreadImplementation" type="462c0819:PsiDirectoryNode" />
+              <item name="8.2.MultiThreadingwithClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8.2.MultiThreadingwithClass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,16 +104,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="TesterRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TesterRunnable" />
-      <module name="8.1.MultiThreadImplementation" />
+    <configuration name="TesterThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesterThread" />
+      <module name="8.2.MultiThreadingwithClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesterRunnable" />
+        <item itemvalue="Application.TesterThread" />
       </list>
     </recent_temporary>
   </component>
@@ -121,11 +122,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7b50f0a5-bb84-4d8a-8d5d-76ded2edc3bd" name="Default Changelist" comment="" />
-      <created>1566484574427</created>
+      <changelist id="7b0a364a-6d5b-4a36-8741-4e83f3049500" name="Default Changelist" comment="" />
+      <created>1566485336978</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566484574427</updated>
+      <updated>1566485336978</updated>
     </task>
     <servers />
   </component>
@@ -137,7 +138,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -161,17 +162,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ThreadSaya.java">
+    <entry file="file://$PROJECT_DIR$/src/TesterThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="14" selection-start-column="1" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TesterRunnable.java">
+    <entry file="file://$PROJECT_DIR$/src/ThreadSaya.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="289">
+          <caret line="26" column="60" lean-forward="true" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
         </state>
       </provider>
     </entry>
